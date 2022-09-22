@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-filter/static/css/main.1f606a0a.css",
+    "main.js": "/search-filter/static/js/main.da7d15b0.js",
+    "index.html": "/search-filter/index.html",
+    "main.1f606a0a.css.map": "/search-filter/static/css/main.1f606a0a.css.map",
+    "main.da7d15b0.js.map": "/search-filter/static/js/main.da7d15b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f606a0a.css",
+    "static/js/main.da7d15b0.js"
+  ]
+}
